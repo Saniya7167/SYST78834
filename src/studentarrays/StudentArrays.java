@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /** This is a model class
  *
- * @author Saniya
+ * @author Saniya 2022
  */
 public class StudentArrays
 {
