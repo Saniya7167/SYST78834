@@ -1,6 +1,7 @@
 package studentarrays;
 import java.util.Scanner;
-/**
+
+/** This is a model class
  *
  * @author Saniya
  */
